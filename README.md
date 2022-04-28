@@ -1,2 +1,2 @@
-# picbed_private
+# picbed_public
 个人图床
